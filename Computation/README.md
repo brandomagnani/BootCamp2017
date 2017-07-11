@@ -69,9 +69,15 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 7-10  | M   |     |     |     |     |
-7-11  | T   |  | Justin Gardiner |      | Comp Prob Set 4  |
-7-12  | W   |     |     |     | due Th, 7-20, 8am |
-7-13  | Th  |  | Justin Gardiner |      |  |
+7-11  | T   | Matrix conditions | Justin Gardiner | [ACME: PageRank Algorithm](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_PageRank.pdf) | [Comp Prob Set 4](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/DifIntOpt_probset.pdf)  |
+|     |     | Numerical Diff. and Int. |           | [ACME: Conditioning and Stability](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_CondStab.pdf) | due Th, 7-20, 8am |
+|     |     |     |      | [ACME: Numerical Differentiation](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_NumDiff.pdf) |  |
+|     |     |     |      | [Evans: Numerical Integration](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/NumIntegr_Evans.pdf) |  |
+7-12  | W   |     |     |     |    |
+7-13  | Th  | Root finding | Justin Gardiner | [ACME: Simplex Method](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_Simplex.pdf) |  |
+|     |     |     |      | [ACME: Line Search Methods](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_LineSrch.pdf) |  |
+|     |     |     |      | [ACME: Newton's Method](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_Newtons.pdf) |  |
+|     |     |     |      | [ACME: Iterative Solvers](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_IterSolvers.pdf) |  |
 7-14  | F   |     |     |     |     |
 
 ### Week 5
@@ -79,7 +85,10 @@ The computational methods lab sessions for the OSM Lab will be held from 8:00-11
 | Date | Day | Topic | Instructor | Materials | Problem Set |
 |:---:|:---:|:--- |:--- |:--- | --- |
 7-17  | M   |     |     |     |     |
-7-18  | T   |  | Justin Gardiner |      |  |
+7-18  | T   | Minimization | Justin Gardiner | [ACME: Interior Point, Linear Programs](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_IntPtLin.pdf) |  |
+|     |     |     |      | [ACME: Interior Point, Quadratic Programs](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_IntPtQuad.pdf) |  |
+|     |     |     |      | [ACME: Newton and Quasi Newton Methods](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_QuasNewt.pdf) |  |
+|     |     |     |      | [ACME: Scipy.optimize](https://github.com/OpenSourceMacro/BootCamp2017/blob/master/Computation/Wk4_DifIntOpt/ACME_ScipyOpt.pdf) |  |
 7-19  | W   |     |     |     |     |
 7-20  | Th  | Adaptive sparse grids, Smolyak | Simon Scheidegger |  | Comp Prob Set 5 |
 7-21  | F   |     |     |     | due T, 7-25, 8am    |
